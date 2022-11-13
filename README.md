@@ -7,7 +7,7 @@
 ----
 ### 文件類
 - COVID-19 related
-	- **登機前** 72 hr PCR 陰性證明
+	- **登機前** Visit Japan 註冊
 	- 疫苗三劑接種證明
 	- [日本入國事前審査](https://www.hco.mhlw.go.jp)
 - 護照
